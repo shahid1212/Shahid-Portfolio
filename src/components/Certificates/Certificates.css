@@ -80,7 +80,6 @@
 }
 @media (max-width: 768px) {
   .certificates {
-    align-items: start;
   }
   .certificate-title h1 {
     font-size: 30px;
